@@ -1,5 +1,12 @@
 #!/usr/bin/python
 # coding: utf-8
+"""
+GitLogParser - parser.py
+
+Created by Hiroki Toyokawa on 2013/05/09.
+Copyright 2013 Hiroki Toyokawa.
+Released under MIT License.
+"""
 import sys
 import commands
 import re
