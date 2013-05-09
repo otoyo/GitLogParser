@@ -3,7 +3,7 @@
 Parse Git log and output formatted JSON.
 
 ## How to use
-    $ git log | python parser.pyc
+    $ git log | python PATH/TO/parser.pyc
 
 ## Output sample
 
